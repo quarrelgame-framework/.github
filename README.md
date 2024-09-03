@@ -1,2 +1,0 @@
-# .github
-Zoo wee mother.
