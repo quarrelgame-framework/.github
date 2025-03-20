@@ -5,7 +5,7 @@ fighting-game scene as a whole by abstracting away the most difficult parts of
 fighting-game development such as ***Rollback***, thus allowing the developer to
 focus on the more important things like _world design_ and _fun_.
 
-As a fighting game framework, this framework tries to preserve one ideal in order to make
+As a fighting game framework, this framework tries to preserve three ideals in order to make
 the development experience worthwhile and as streamlined as possible:
 
 1. A fighting game made with this framework should have as little boilerplate as possible
